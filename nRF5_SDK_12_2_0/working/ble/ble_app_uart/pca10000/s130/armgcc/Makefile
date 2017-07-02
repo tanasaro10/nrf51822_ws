@@ -3,6 +3,7 @@ TARGETS          := nrf51822_xxac
 OUTPUT_DIRECTORY := _build
 OUTPUT_FILES	 := ../../../hex
 
+
 SDK_ROOT := ../../../../../..
 PROJ_DIR := ../../..
 
